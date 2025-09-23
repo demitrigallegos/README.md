@@ -30,8 +30,8 @@ When I'm not working with data, I enjoy meditation, hiking, latin dancing, and c
 
 ## 🌱 Currently Learning 
 
-- [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
+- I’m currently building my skills in APIs, SQL (MySQL), and modern data tools to strengthen my foundation in data analysis and software integration. I’ve been learning how APIs work as bridges between different applications, with a focus on REST APIs and how they allow data to be exchanged using HTTP methods.
+- I am also focusing on making my dashboards more insightful and easier for people to read. 
 
 ## 🛠️ Technical Skillset
 
