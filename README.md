@@ -17,16 +17,15 @@ I'm a data analyst passionate about helping businesses make sense of their data.
 
 My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
 
-When I'm not working with data, I enjoy meditation, hiking, latin dancing, and cooking. I love moment of realization when data reveals something new and useful!
+When I'm not working with data, I enjoy meditation, hiking, and martial arts. I love moment of realization when data reveals something new and useful!
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://demitrigallegos.github.io/)
       
 ## 🔭 What I'm Currently Working On 
 
-- **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
+- **Cryptocurrncey API Analysis:** Used Python, MySQL, and Power BI to get data from an API into a database and automatically refresh with Power BI visuals.   
 - **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
-- **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
 
 ## 🌱 Currently Learning 
 
