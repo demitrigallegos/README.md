@@ -25,7 +25,6 @@ When I'm not working with data, I enjoy meditation, hiking, and martial arts. I 
 ## 🔭 What I'm Currently Working On 
 
 - **Cryptocurrncey API Analysis:** Used Python, MySQL, and Power BI to get data from an API into a database and automatically refresh with Power BI visuals.   
-- **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
 
 ## 🌱 Currently Learning 
 
@@ -56,5 +55,5 @@ When I'm not working with data, I enjoy meditation, hiking, and martial arts. I 
   <img src="https://img.shields.io/badge/A%2FB%20Testing-Experienced-FF6B6B?style=flat" alt="A/B Testing Skill Badge">
   <img src="https://img.shields.io/badge/Statistical%20Analysis-Experienced-4ECDC4?style=flat" alt="Statistical Analysis Skill Badge">
   <img src="https://img.shields.io/badge/Predictive%20Modeling-Intermediate-45B7D1?style=flat" alt="Predictive Modeling Skill Badge">
-  <img src="https://img.shields.io/badge/KPI%20Development-Expert-96CEB4?style=flat" alt="KPI Development Skill Badge">
+  <img src="https://img.shields.io/badge/KPI%20Development-Intermediate-96CEB4?style=flat" alt="KPI Development Skill Badge">
 </p>
